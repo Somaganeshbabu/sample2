@@ -1,2 +1,2 @@
 print("pipeline triggered")
-print("hello triggered")
+print(" triggered")
